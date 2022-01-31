@@ -8,3 +8,6 @@ function isFacorial(n){
 let n = 5;
 answer = isFacorial(n);
 console.log(answer);
+
+secondAnswer = isFacorial(6);
+console.log(secondAnswer);
