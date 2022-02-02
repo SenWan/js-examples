@@ -8,5 +8,5 @@ function getUnique(arr){
     return uniqueArray;
 }
 
-unique = getUnique([10, 20, 30, 40, 10, 20, 30, 40]);
+unique = getUnique([10, 20, 30, 40, 10, 20, 30, 40, 50]);
 console.log(unique);
